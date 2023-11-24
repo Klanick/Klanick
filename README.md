@@ -1,4 +1,21 @@
-### Hi there 👋
+## Hello there 👋
+
+### Education
+4-year student at ITMO University, Applied Mathematics and Computer Science at the Faculty of Information Technology and Programming.
+
+### Skills
+Programming languages: Java, JavaScript, CSS, HTML, Python, Bash, C++.
+
+### Interests
+
+* Algorithms
+* Discrete mathematics
+* GameDev: Gamedesign and PixelArt
+
+### Contacts
+- 📧 Email: niklavr019@gmail.com
+- 📱 Telegram: https://t.me/klanlavr
+
 
 <!--
 **Klanick/Klanick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
