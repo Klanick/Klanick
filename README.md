@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 ### Education
-4-year student at ITMO University, Applied Mathematics and Computer Science at the Faculty of Information Technology and Programming.
+undergraduate student at ITMO University, Applied Mathematics and Computer Science at the Faculty of Information Technology and Programming.
 
 ### Skills
 Programming languages: Java, JavaScript, CSS, HTML, Python, Bash, C++.
