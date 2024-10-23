@@ -10,7 +10,7 @@ Programming languages: Java, JavaScript, CSS, HTML, Python, Bash, C++.
 
 * Algorithms
 * Discrete mathematics
-* GameDev: Gamedesign and PixelArt
+* GameDev: Gamedesign and PixelArt (links: itch.io/profile/nick-lavr, vk.com/todd_etot)
 
 ### Contacts
 - 📧 Email: niklavr019@gmail.com
