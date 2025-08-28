@@ -1,33 +1,35 @@
-## Hello there 👋
+## 👋 Hello, I'm Nikolay
 
-### Education
-undergraduate student at ITMO University, Applied Mathematics and Computer Science at the Faculty of Information Technology and Programming.
+Backend Developer specializing in Java/Kotlin
 
-### Skills
-Programming languages: Java, JavaScript, CSS, HTML, Python, Bash, C++.
+### 🎓 Education
 
-### Interests
+**ITMO University**  
+**Master of Science** in Applied Mathematics and Computer Science  
+*[Institute of Applied Computer Science](https://www.ipkn.itmo.ru/)* | 2024 – 2026 (Expected)
 
-* Algorithms
-* Discrete mathematics
-* GameDev: Gamedesign and PixelArt | [Itch.io](https://itch.io/profile/nick-lavr), [vk.group](https://vk.com/todd_etot) |
+**ITMO University**  
+**Bachelor of Science** in Applied Mathematics and Computer Science  
+*[Faculty of Information Technologies and Programming](https://fitp.itmo.ru/)* | 2020 – 2024
 
-### Contacts
+
+### 🛠️ Skills
+
+**Main Language:** 
+***Java/Kotlin***, 
+
+**Frameworks and Tools:** 
+Spring, PostgreSQL, Maven/Gradle, Junit/Mockito, Liquebase
+
+**Others:**
+C++, Python, Javascript, CSS, HTML
+
+### 🎯 Interests
+
+- Algorithms & Discrete math
+- GameDev: Gamedesign and PixelArt | [Itch.io](https://itch.io/profile/nick-lavr)
+
+### 📫 Contacts
 - 📧 Email: niklavr019@gmail.com
 - 📱 Telegram: https://t.me/klanlavr
-
-
-<!--
-**Klanick/Klanick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [HH.ru](https://spb.hh.ru/resume/17ac60fdff0e09f6b90039ed1f595944646d73)
