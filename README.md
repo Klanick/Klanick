@@ -19,7 +19,7 @@ Backend Developer specializing in Java/Kotlin
 ***Java/Kotlin***, 
 
 **Frameworks and Tools:** 
-Spring, PostgreSQL, Maven/Gradle, Junit/Mockito, Liquebase
+Spring, PostgreSQL, Maven/Gradle, Junit/Mockito, Liquibase
 
 **Others:**
 C++, Python, Javascript, CSS, HTML
